@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AC-Induction-Motor-Digital-Twin/static/css/main.eb505b8d.css",
-    "main.js": "/AC-Induction-Motor-Digital-Twin/static/js/main.df44231f.js",
+    "main.js": "/AC-Induction-Motor-Digital-Twin/static/js/main.ce6e071d.js",
     "index.html": "/AC-Induction-Motor-Digital-Twin/index.html",
     "main.eb505b8d.css.map": "/AC-Induction-Motor-Digital-Twin/static/css/main.eb505b8d.css.map",
-    "main.df44231f.js.map": "/AC-Induction-Motor-Digital-Twin/static/js/main.df44231f.js.map"
+    "main.ce6e071d.js.map": "/AC-Induction-Motor-Digital-Twin/static/js/main.ce6e071d.js.map"
   },
   "entrypoints": [
     "static/css/main.eb505b8d.css",
-    "static/js/main.df44231f.js"
+    "static/js/main.ce6e071d.js"
   ]
 }
